@@ -1,0 +1,6 @@
+id,product,category,region,sales_amount,transaction_date,sales_percentage,running_total
+1,Product A,Category 1,North,100,2023-01-01,8.70%,100
+2,Product B,Category 1,North,200,2023-01-02,17.39%,300
+3,Product C,Category 2,South,300,2023-01-03,26.09%,300
+4,Product D,Category 2,South,400,2023-01-04,34.78%,700
+5,Product E,Category 1,North,150,2023-01-05,13.04%,450
